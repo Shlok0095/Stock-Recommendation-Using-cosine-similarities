@@ -1,0 +1,9 @@
+{
+  "data_source": {
+    "yfinance": false,
+    "alphavantage": false,
+    "direct_csv_import": true
+  },
+  "use_gpu": true,
+  "csv_file_path": "stockdata.csv"
+}
